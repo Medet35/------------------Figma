@@ -4,6 +4,9 @@
   padding: 0;
 }
 
+html {
+  font-family: "Roboto", sans-serif;
+}
 .container {
   position: relative;
   width: 1140px;
@@ -38,9 +41,8 @@ h1 {
 
 .title {
   color: #f9bf3b;
-  font-family: "Roboto - Black";
   font-size: 41px;
-  font-weight: 400;
+  font-weight: 900;
   line-height: 24px;
   text-transform: uppercase;
   text-align: center;
